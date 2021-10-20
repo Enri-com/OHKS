@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Logo_EM
+D Enrico Munaron logo
+K Enrico Logo
+F ~
+$ENDCMP
+#
+$CMP Logo_INFN_LNL
+D INFN LNL logo
+K Logo INFN LNL
+F ~
+$ENDCMP
+#
+$CMP Logo_INFN_LNL_full
+D INFN LNL logo, full
+K Logo INFN LNL
+F ~
+$ENDCMP
+#
+$CMP SN74HCS125D-Q1
+D Automotive Quadruple Buffer with 3-State Outputs and Schmitt-Trigger Inputs
+K Buffer Schmitt-Trigger Inputs
+F https://www.ti.com/lit/ds/symlink/sn74hcs125-q1.pdf
+$ENDCMP
+#
+$CMP SN74HCS125PW-Q1
+D Automotive Quadruple Buffer with 3-State Outputs and Schmitt-Trigger Inputs
+K Buffer Schmitt-Trigger Inputs
+F https://www.ti.com/lit/ds/symlink/sn74hcs125-q1.pdf
+$ENDCMP
+#
+#End Doc Library

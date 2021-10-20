@@ -1,0 +1,12 @@
+### Module positions - created on 20/10/2021 19:22:57 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                             PosX       PosY       Rot  Side
+D2        LED                   LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    74.6850   -59.8678  180.0000  top
+D3        LED                   LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    74.6596   -56.4896  180.0000  top
+J2        Conn_ARM_JTAG_SWD_10  PinHeader_2x05_P1.27mm_Vertical_SMD              78.4860   -50.1142   90.0000  top
+R3        0R0                   R_0603_1608Metric_Pad1.05x0.95mm_HandSolder      84.1388   -48.1330  180.0000  top
+SW1       B3S-1000              Omron_B3S-1000                                   65.0632   -51.5366    0.0000  top
+SW2       B3S-1000              Omron_B3S-1000                                   65.1256   -60.7822    0.0000  top
+## End

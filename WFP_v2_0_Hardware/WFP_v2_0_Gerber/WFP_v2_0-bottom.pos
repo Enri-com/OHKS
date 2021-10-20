@@ -1,0 +1,53 @@
+### Module positions - created on 20/10/2021 19:22:57 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                             Package                                           PosX       PosY       Rot  Side
+C1        10pF                            C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -81.4070   -66.9290    0.0000  bottom
+C2        10pF                            C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -78.0034   -66.9290  180.0000  bottom
+C3        0.1uF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -73.0504   -51.2318  225.0000  bottom
+C4        0.1uF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -83.6839   -60.9945   45.0000  bottom
+C5        100nF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -63.5762   -51.3956   90.0000  bottom
+C6        100nF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -75.1726   -47.4472    0.0000  bottom
+C7        0.1uF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -61.7220   -42.1640  180.0000  bottom
+C8        4.7uF                           C_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -61.7310   -44.7040  180.0000  bottom
+C9        0.1uF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -91.0196  -143.9926  180.0000  bottom
+C10       0.1uF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -84.1896  -143.9926    0.0000  bottom
+C11       0.1uF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -82.0560  -113.1824  180.0000  bottom
+C12       0.1uF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -100.8520   -91.3130  180.0000  bottom
+C13       0.1uF                           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -109.9960  -136.2456  180.0000  bottom
+D1        BAT54HT1G                       D_SOD-323_HandSoldering                       -66.6242   -51.5166   90.0000  bottom
+FB1       WURTH_742792608                 L_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -75.1472   -45.7200  180.0000  bottom
+FB2       WURTH_742792608                 L_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -83.6308   -45.7200  180.0000  bottom
+J3        USB_B_Micro_WURTH_629105150521  USB_Micro-B_Wuerth_629105150521               -79.2480   -41.1480    0.0000  bottom
+R1        0R0                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -109.6630   -48.0878   65.0000  bottom
+R2        0R0                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -128.2700   -50.2920  335.0000  bottom
+R4        10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -65.2780   -61.8630   90.0000  bottom
+R5        470R                            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -66.8020   -61.8630   90.0000  bottom
+R6        100K                            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -83.6282   -47.4472    0.0000  bottom
+R7        0R0                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -83.6308   -49.2252  180.0000  bottom
+R8        10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -61.3065  -103.3871  225.0000  bottom
+R9        10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -133.9550  -108.9108  247.5000  bottom
+R10       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -88.3526   -95.7072  180.0000  bottom
+R11       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -115.0529  -104.4611  315.0000  bottom
+R12       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -124.4092  -131.6596   90.0000  bottom
+R13       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -84.1870  -142.3416  180.0000  bottom
+R14       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -91.0196  -142.3416  180.0000  bottom
+R15       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -84.1896  -140.7160    0.0000  bottom
+R16       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -91.0196  -140.6906  180.0000  bottom
+R17       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -71.0946   -79.8322  247.0000  bottom
+R18       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -136.8552   -88.9000    0.0000  bottom
+R19       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -91.0196  -121.6406    0.0000  bottom
+R20       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -91.8755   -68.8195  225.5000  bottom
+R21       10K                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -104.8004   -81.3816  292.5000  bottom
+R22       470R                            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -66.8020   -57.6580   90.0000  bottom
+R23       0R0                             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder  -132.7150   -58.9788  245.0000  bottom
+U1        IP4220CZ6                       SOT-457                                       -58.9280   -60.7060  180.0000  bottom
+U3        STM32F042K6T7                   LQFP-32_7x7mm_P0.8mm                          -78.4860   -55.8800   90.0000  bottom
+U4        LM1117-3.3                      SOT-223-3_TabPin2                             -68.3260   -43.4340  180.0000  bottom
+U5        IP4220CZ6                       SOT-457                                       -79.2480   -48.0060  180.0000  bottom
+U6        SN74HCS125D-Q1                  SOIC-14_3.9x8.7mm_P1.27mm                     -80.0100  -107.6960    0.0000  bottom
+U7        SN74HCS125D-Q1                  SOIC-14_3.9x8.7mm_P1.27mm                     -98.8060   -85.8520    0.0000  bottom
+U8        SN74HCS125D-Q1                  SOIC-14_3.9x8.7mm_P1.27mm                    -107.9500  -130.8100    0.0000  bottom
+Y1        NX3225GD-8MHZ-EXS00A-CG04874    Crystal_SMD_3225-2Pin_3.2x2.5mm               -79.6950   -64.4906    0.0000  bottom
+## End
